@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDeber", "WebDeber\WebDeber.csproj", "{A583D2A4-895A-46F1-A6BA-2D059AEB8E33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaNegocio", "CapaNegocio\CapaNegocio.csproj", "{8EBB79F7-E53C-42D9-AAE6-95C3CF886B6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "CapaDatos\CapaDatos.csproj", "{26F08D87-9F36-4222-A129-04DF11D39836}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A583D2A4-895A-46F1-A6BA-2D059AEB8E33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A583D2A4-895A-46F1-A6BA-2D059AEB8E33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A583D2A4-895A-46F1-A6BA-2D059AEB8E33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A583D2A4-895A-46F1-A6BA-2D059AEB8E33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8EBB79F7-E53C-42D9-AAE6-95C3CF886B6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8EBB79F7-E53C-42D9-AAE6-95C3CF886B6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8EBB79F7-E53C-42D9-AAE6-95C3CF886B6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8EBB79F7-E53C-42D9-AAE6-95C3CF886B6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{26F08D87-9F36-4222-A129-04DF11D39836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{26F08D87-9F36-4222-A129-04DF11D39836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{26F08D87-9F36-4222-A129-04DF11D39836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{26F08D87-9F36-4222-A129-04DF11D39836}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gigabyte\\Desktop\\Trabajos en C sharp\\Ejercicio Paginaweb\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A583D2A4-895A-46F1-A6BA-2D059AEB8E33}|WebDeber\\WebDeber.csproj|c:\\users\\gigabyte\\desktop\\trabajos en c sharp\\ejercicio paginaweb\\webdeber\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A583D2A4-895A-46F1-A6BA-2D059AEB8E33}|WebDeber\\WebDeber.csproj|solutionrelative:webdeber\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A583D2A4-895A-46F1-A6BA-2D059AEB8E33}|WebDeber\\WebDeber.csproj|C:\\Users\\Gigabyte\\Desktop\\Trabajos en C sharp\\Ejercicio Paginaweb\\webdeber\\contacto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A583D2A4-895A-46F1-A6BA-2D059AEB8E33}|WebDeber\\WebDeber.csproj|solutionrelative:webdeber\\contacto.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A583D2A4-895A-46F1-A6BA-2D059AEB8E33}|WebDeber\\WebDeber.csproj|C:\\Users\\Gigabyte\\Desktop\\Trabajos en C sharp\\Ejercicio Paginaweb\\webdeber\\accesorios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A583D2A4-895A-46F1-A6BA-2D059AEB8E33}|WebDeber\\WebDeber.csproj|solutionrelative:webdeber\\accesorios.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A583D2A4-895A-46F1-A6BA-2D059AEB8E33}|WebDeber\\WebDeber.csproj|C:\\Users\\Gigabyte\\Desktop\\Trabajos en C sharp\\Ejercicio Paginaweb\\webdeber\\ofertas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A583D2A4-895A-46F1-A6BA-2D059AEB8E33}|WebDeber\\WebDeber.csproj|solutionrelative:webdeber\\ofertas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A583D2A4-895A-46F1-A6BA-2D059AEB8E33}|WebDeber\\WebDeber.csproj|C:\\Users\\Gigabyte\\Desktop\\Trabajos en C sharp\\Ejercicio Paginaweb\\webdeber\\prendas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A583D2A4-895A-46F1-A6BA-2D059AEB8E33}|WebDeber\\WebDeber.csproj|solutionrelative:webdeber\\prendas.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A583D2A4-895A-46F1-A6BA-2D059AEB8E33}|WebDeber\\WebDeber.csproj|C:\\Users\\Gigabyte\\Desktop\\Trabajos en C sharp\\Ejercicio Paginaweb\\webdeber\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A583D2A4-895A-46F1-A6BA-2D059AEB8E33}|WebDeber\\WebDeber.csproj|solutionrelative:webdeber\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ofertas.aspx",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Desktop\\Trabajos en C sharp\\Ejercicio Paginaweb\\WebDeber\\Ofertas.aspx",
+              "RelativeDocumentMoniker": "WebDeber\\Ofertas.aspx",
+              "ToolTip": "C:\\Users\\Gigabyte\\Desktop\\Trabajos en C sharp\\Ejercicio Paginaweb\\WebDeber\\Ofertas.aspx",
+              "RelativeToolTip": "WebDeber\\Ofertas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-19T04:11:01.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Contacto.aspx",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Desktop\\Trabajos en C sharp\\Ejercicio Paginaweb\\WebDeber\\Contacto.aspx",
+              "RelativeDocumentMoniker": "WebDeber\\Contacto.aspx",
+              "ToolTip": "C:\\Users\\Gigabyte\\Desktop\\Trabajos en C sharp\\Ejercicio Paginaweb\\WebDeber\\Contacto.aspx",
+              "RelativeToolTip": "WebDeber\\Contacto.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-19T04:06:43.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Accesorios.aspx",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Desktop\\Trabajos en C sharp\\Ejercicio Paginaweb\\WebDeber\\Accesorios.aspx",
+              "RelativeDocumentMoniker": "WebDeber\\Accesorios.aspx",
+              "ToolTip": "C:\\Users\\Gigabyte\\Desktop\\Trabajos en C sharp\\Ejercicio Paginaweb\\WebDeber\\Accesorios.aspx",
+              "RelativeToolTip": "WebDeber\\Accesorios.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-19T04:06:11.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Desktop\\Trabajos en C sharp\\Ejercicio Paginaweb\\WebDeber\\Default.aspx",
+              "RelativeDocumentMoniker": "WebDeber\\Default.aspx",
+              "ToolTip": "C:\\Users\\Gigabyte\\Desktop\\Trabajos en C sharp\\Ejercicio Paginaweb\\WebDeber\\Default.aspx",
+              "RelativeToolTip": "WebDeber\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-19T03:02:13.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Prendas.aspx",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Desktop\\Trabajos en C sharp\\Ejercicio Paginaweb\\WebDeber\\Prendas.aspx",
+              "RelativeDocumentMoniker": "WebDeber\\Prendas.aspx",
+              "ToolTip": "C:\\Users\\Gigabyte\\Desktop\\Trabajos en C sharp\\Ejercicio Paginaweb\\WebDeber\\Prendas.aspx",
+              "RelativeToolTip": "WebDeber\\Prendas.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-19T02:39:53.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\Gigabyte\\Desktop\\Trabajos en C sharp\\Ejercicio Paginaweb\\WebDeber\\Site.Master",
+              "RelativeDocumentMoniker": "WebDeber\\Site.Master",
+              "ToolTip": "C:\\Users\\Gigabyte\\Desktop\\Trabajos en C sharp\\Ejercicio Paginaweb\\WebDeber\\Site.Master",
+              "RelativeToolTip": "WebDeber\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-19T01:40:47.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
